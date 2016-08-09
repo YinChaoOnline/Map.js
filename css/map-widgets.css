@@ -1,0 +1,17 @@
+.esriSimpleSliderTL {
+    top: 60px !important;
+}
+
+#basemap-toggle{
+    position: absolute;
+    top:140px;
+    left: 5px;
+    z-index: 1;
+}
+
+#btn-home{
+    position: absolute;
+    right:5px;
+    bottom: 35px;
+    z-index: 1;
+}
